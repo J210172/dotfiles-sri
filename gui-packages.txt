@@ -20,6 +20,7 @@ mc
 mtr
 nano
 nemo
+neofetch
 networkmanager
 networkmanager-dmenu-git
 openssh
@@ -28,6 +29,8 @@ polybar
 python-pywal
 rofi
 rofi-calc
+rofi-power-menu
+screen
 sxhkd
 ttf-nerd-fonts-symbols
 unzip
