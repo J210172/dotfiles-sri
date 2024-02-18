@@ -12,6 +12,7 @@ Repositorios:
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
 - [baskerville/bspwm](https://github.com/baskerville/bspwm)
 - [davatorium/rofi](https://github.com/davatorium/rofi)
+- [arcolinux/arcolinux-bspwm](https://github.com/arcolinux/arcolinux-bspwm)
 
 Otros enlaces:
 - [bspwm](https://wiki.archlinux.org/title/bspwm)

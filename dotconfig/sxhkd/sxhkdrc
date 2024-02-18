@@ -6,10 +6,6 @@
 super + Return
 	alacritty
 
-# program launcher
-super + @space
-	dmenu_run
-
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
@@ -63,7 +59,7 @@ super + {p,b,comma,period}
 	bspc node -f @{parent,brother,first,second}
 
 # focus the next/previous window in the current desktop
-super + {_,shift + }c
+super + {_,shift + }q
 	bspc node -f {next,prev}.local.!hidden.window
 
 # focus the next/previous desktop in the current monitor
@@ -119,3 +115,25 @@ super + alt + shift + {Left,Down,Up,Right}
 # move a floating window
 super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+
+#
+# rofi
+#
+
+# Rofi combi mode
+super + @space
+	rofi -show combi
+
+# Rofi calc mode
+super + c
+	rofi -show calc
+
+# Rofi clipboard mode
+super + v
+	rofi -show filebrowser
+
+# Rofi powermenu mode
+super + x
+		rofi -show p -modi p:rofi-power-menu
+
