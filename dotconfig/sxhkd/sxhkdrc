@@ -135,5 +135,14 @@ super + v
 
 # Rofi powermenu mode
 super + x
-		rofi -show p -modi p:rofi-power-menu
+	rofi -show p -modi p:rofi-power-menu
+
+#
+# otros
+#
+
+# Chromium
+super + z
+	chromium
+
 
