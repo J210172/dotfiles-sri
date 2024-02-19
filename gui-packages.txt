@@ -12,6 +12,9 @@ feh
 git
 github-cli
 grub
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 linux
 linux-firmware
 ly
@@ -24,6 +27,7 @@ neofetch
 networkmanager
 networkmanager-dmenu-git
 openssh
+picom
 pluma
 polybar
 python-pywal
