@@ -17,3 +17,7 @@ Repositorios:
 Otros enlaces:
 - [bspwm](https://wiki.archlinux.org/title/bspwm)
 - [rofi](https://wiki.archlinux.org/title/rofi)
+
+Paquetes AUR:
+- [networkmanager-dmenu-git](https://aur.archlinux.org/networkmanager-dmenu-git.git)
+- [rofi-power-menu](https://aur.archlinux.org/rofi-power-menu.git)

@@ -24,8 +24,6 @@ mtr
 nano
 nemo
 neofetch
-networkmanager
-networkmanager-dmenu-git
 openssh
 picom
 pluma
@@ -33,7 +31,6 @@ polybar
 python-pywal
 rofi
 rofi-calc
-rofi-power-menu
 screen
 sxhkd
 ttf-nerd-fonts-symbols
@@ -50,4 +47,3 @@ zsh-doc
 zsh-history-substring-search
 zsh-lovers
 zsh-syntax-highlighting
-zsh-theme-powerlevel10k
