@@ -3,7 +3,7 @@
 pgrep -x sxhkd > /dev/null || sxhkd &
 
 /usr/bin/lxqt-policykit-agent &
-polybar example &
+../polybar/launch.sh --cuts  &
 picom &
 
 bspc monitor -d I II III IV
